@@ -1,0 +1,23 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevByRayRay/netlify-typescript-function-example.git"
+  },
+  "keywords": [],
+  "author": "Dev By RayRay <raymon@raymonschouwenaar.nl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevByRayRay/netlify-typescript-function-example/issues"
+  },
+  "homepage": "https://github.com/DevByRayRay/netlify-typescript-function-example#readme",
+  "dependencies": {
+    "@netlify/functions": "^0.7.2"
+  }
+}
