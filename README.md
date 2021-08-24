@@ -1,0 +1,1 @@
+# netlify-typescript-function-example
